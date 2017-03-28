@@ -12,8 +12,8 @@
      <config-file target="*-Info.plist" parent="NSPhotoLibraryUsageDescription">
          <string>Photo library may be used.</string>
      </config-file>
-     <config-file parent="NSContactsUsageDescription" target="*-Info.plist">
-	    <string>App needs access to your contacts.</string>
+     <config-file parent="NSCameraUsageDescription" target="*-Info.plist">
+	    <string>App needs access to your camera to take photos and videos.</string>
      </config-file>
      <config-file parent="NSMicrophoneUsageDescription" target="*-Info.plist">
 	     <string>App uses your microphone to record media.</string>
